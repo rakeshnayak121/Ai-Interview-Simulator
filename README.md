@@ -82,21 +82,7 @@ npm install
 
 npm run dev
 
-## Environment Variables
 
-Backend (.env)
-
-PORT=5000
-
-MONGODB_URI=your_mongodb_connection
-
-JWT_SECRET=your_secret_key
-
-GEMINI_API_KEY=your_api_key
-
-Frontend (.env)
-
-VITE_API_URL=http://localhost:5000
 
 ## Future Enhancements
 
